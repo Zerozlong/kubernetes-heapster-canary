@@ -1,1 +1,1 @@
-from kubernetes-heapster-canary
+from kubernetes/heapster:canary
